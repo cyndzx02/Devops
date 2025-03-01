@@ -1,0 +1,111 @@
+Rapport d'Analyse des Données issues de la Phase Terrain
+1. Introduction
+
+Contexte et objectifs
+Dans le cadre de notre projet innovant visant à améliorer l'accès aux services financiers au Bénin, nous avons mené une phase terrain pour mieux comprendre les besoins et les attentes des utilisateurs en matière de Mobile Money. L'objectif principal de cette étude était d'identifier les freins à l'adoption de ces services et de recueillir des insights pour concevoir une solution plus simple, sécurisée et accessible.
+Problématique
+La problématique centrale de cette étude est la suivante : Comment améliorer l'expérience utilisateur et l'accessibilité des services de Mobile Money pour les populations béninoises, en particulier celles non bancarisées ou mal desservies par les institutions financières traditionnelles ?
+Hypothèses de départ
+- Les utilisateurs trouvent les services de Mobile Money complexes à utiliser.
+- La sécurité des transactions est une préoccupation majeure pour les utilisateurs.
+- L'accessibilité géographique et technologique limite l'adoption de ces services.
+
+2. Méthodologie
+Type de données collectées
+Nous avons collecté des données mixtes (quantitatives et qualitatives) pour obtenir une vision complète des besoins et des attentes des utilisateurs.
+
+Méthodes de collecte
+Questionnaire en ligne via Google Forms : Un court questionnaire a été diffusé auprès d'un échantillon représentatif de la population béninoise. Le formulaire comprenait des questions fermées (choix multiples) et ouvertes pour recueillir des commentaires détaillés.
+Entretiens téléphoniques : Des entretiens semi-directifs ont été menés avec des utilisateurs réguliers et non-utilisateurs de Mobile Money pour approfondir les réponses du questionnaire.
+Volume des données
+- Nombre de répondants : 50 répondants au questionnaire via Google Forms.
+- Nombre d'entretiens : 10 entretiens téléphoniques.
+Outils d'analyse
+- Google Sheets : Pour l'analyse quantitative (calculs de fréquences, moyennes, etc.).
+- Google Data Studio : Pour la visualisation des données (graphiques, tableaux de bord).
+- Analyse manuelle : Pour l'analyse qualitative des commentaires ouverts.
+
+
+3. Résultats et Analyse
+
+3.1 Données brutes et tendances générales
+
+Moyens de transfert d'argent utilisés
+- Mobile Money (Momo, Moov Money, Celtiis Cash) : 80 % des répondants utilisent principalement des services de Mobile Money, avec une préférence pour Momo (MTN) et Moov Money.
+- Virements bancaires : 20 % des répondants utilisent également des services bancaires traditionnels, mais ceux-ci sont moins populaires en raison des délais et des frais élevés.
+
+Difficultés rencontrées
+1. Problèmes de réseau : 60 % des répondants signalent des problèmes de connexion ou de stabilité du réseau, surtout dans les zones rurales ou reculées.
+2. Frais de transaction : 50 % des utilisateurs trouvent les frais de transfert et de retrait trop élevés.
+3. Bugs et dysfonctionnements de l'application : 40 % des utilisateurs rapportent des bugs fréquents, comme des applications qui ne s'ouvrent pas ou des transferts qui échouent sans raison apparente.
+4. Sécurité et notifications : 30 % des répondants mentionnent des erreurs de notification (par exemple, des messages indiquant qu'un transfert a échoué alors qu'il a réussi).
+
+Suggestions d'amélioration
+1. Réduction des frais : 70 % des répondants souhaitent une réduction, voire une suppression, des frais de transaction et de retrait.
+2. Amélioration de la stabilité du réseau : 60 % des utilisateurs demandent une meilleure couverture réseau, en particulier dans les zones rurales.
+3. Simplification des processus : 50 % des utilisateurs veulent des interfaces plus intuitives et des transferts plus rapides, notamment pour les transactions inter-réseaux (par exemple, entre MTN et Moov).
+4. Sécurité renforcée : 40 % des répondants suggèrent l'ajout de mesures de sécurité supplémentaires, comme une authentification à deux facteurs ou un suivi plus transparent des transactions.
+
+
+3.2 Analyse approfondie
+
+Simplicité et accessibilité
+- Les utilisateurs trouvent les services de Mobile Money complexes à utiliser, en particulier pour les personnes moins familiarisées avec la technologie.
+- L'accès limité dans les zones rurales et les problèmes de réseau sont des freins majeurs à l'adoption.
+
+Sécurité et confiance
+- Les erreurs de notification et les bugs fréquents érodent la confiance des utilisateurs dans les services de Mobile Money.
+- Les utilisateurs souhaitent des mesures de sécurité supplémentaires pour protéger leurs transactions.
+
+Coûts
+- Les frais de transaction sont perçus comme un obstacle majeur, en particulier pour les petits montants.
+- Les utilisateurs suggèrent des tarifs plus flexibles ou des transactions gratuites pour les montants inférieurs à un certain seuil.
+
+Interopérabilité
+- Les utilisateurs souhaitent pouvoir effectuer des transferts entre différents réseaux (par exemple, MTN vers Moov) sans restrictions.
+- L'absence d'interopérabilité limite l'utilité des services de Mobile Money pour certains utilisateurs.
+
+
+ 4. Insights et Recommandations
+
+Enseignements clés
+1. Simplicité : Les utilisateurs veulent des interfaces plus intuitives et des processus simplifiés.
+2. Sécurité : La confiance dans les services de Mobile Money peut être renforcée par des mécanismes de sécurité transparents et une meilleure communication sur les garanties offertes.
+3. Accessibilité : Il est essentiel d'étendre la couverture réseau et de multiplier les points de service dans les zones rurales.
+4. Coûts : Les frais de transaction doivent être revus pour rendre les services plus accessibles aux populations à faible revenu.
+
+Recommandations
+1. Améliorer l'expérience utilisateur :
+   - Simplifier les interfaces des applications.
+   - Ajouter des tutoriels intégrés pour guider les nouveaux utilisateurs.
+2. Renforcer la sécurité :
+   - Mettre en place une authentification à deux facteurs.
+   - Améliorer les notifications pour éviter les erreurs et les confusions.
+3. Étendre la couverture réseau :
+   - Collaborer avec les opérateurs télécoms pour améliorer la couverture dans les zones rurales.
+4. Réduire les frais :
+   - Introduire des tarifs dégressifs en fonction du montant des transactions.
+   - Offrir des transactions gratuites pour les petits montants.
+5. Promouvoir l'interopérabilité :
+   - Permettre les transferts entre différents réseaux (MTN, Moov, etc.).
+   - Faciliter les transactions internationales.
+
+
+ 5. Conclusion
+
+Synthèse des résultats
+Cette étude a permis d'identifier les principaux freins à l'adoption du Mobile Money au Bénin, notamment les problèmes de réseau, les frais élevés et les bugs fréquents. Les utilisateurs souhaitent des services plus simples, plus sécurisés et plus accessibles.
+
+Impact potentiel
+En mettant en œuvre les recommandations issues de cette étude, notre projet a le potentiel de renforcer l'inclusion financière au Bénin et d'offrir des services financiers accessibles à tous.
+
+Prochaines étapes
+- Prototyper une nouvelle solution de Mobile Money basée sur les insights recueillis.
+- Tester le prototype auprès d'un groupe d'utilisateurs pour validation.
+- Préparer un plan de déploiement à grande échelle.
+
+
+ Annexes
+- Données brutes : Export des réponses Google Forms au format CSV.
+- Guides d'entretien : Scripts utilisés pour les entretiens téléphoniques.
+
